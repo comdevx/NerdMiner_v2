@@ -10,10 +10,10 @@
 #define DEFAULT_WIFIPW		"MineYourCoins"
 #define DEFAULT_POOLURL		"public-pool.io"
 #define DEFAULT_POOLPASS	"x"
-#define DEFAULT_WALLETID	"yourBtcAddress"
+#define DEFAULT_WALLETID	"1EirPZv2aBLVfwQiGqsgT7jxhAR2wKrre3"
 #define DEFAULT_POOLPORT	21496
-#define DEFAULT_TIMEZONE	2
-#define DEFAULT_SAVESTATS	false
+#define DEFAULT_TIMEZONE	7
+#define DEFAULT_SAVESTATS	true
 
 // JSON config files
 #define JSON_CONFIG_FILE	"/config.json"

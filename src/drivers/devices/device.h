@@ -7,6 +7,8 @@
 #include "M5Stick-C.h"
 #elif defined(DEVKITV1)
 #include "esp32DevKit.h"
+#elif defined(LOLIN32_LITE)
+#include "lolin32Lite.h"
 #elif defined(TDISPLAY)
 #include "lilygoS3TDisplay.h"
 #elif defined(NERMINER_S3_AMOLED)
